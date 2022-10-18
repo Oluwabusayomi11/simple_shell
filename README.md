@@ -1,1 +1,6 @@
-A printf Collaboration project done by Iyekolo Oluwabusayomi and Iyke Udemezue
+A print collaboration function<br />
+
+A repo that prints out anyhing according to its specifier <br />
+
+Authors: Iyekolo Oluwabusayomi<br />
+	 Iyke Udemezue
