@@ -1,5 +1,3 @@
-This is a README with the description of this project
-
 Group project - 0x16. C - simple_shell
 
 this project is about a Unix shell which is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.
