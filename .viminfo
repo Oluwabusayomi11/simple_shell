@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1668413428,,"x"
+|2,0,1668757935,,"x"
 :q
 |2,0,1668410316,,"q"
 :wq
@@ -243,30 +243,54 @@ $
 |3,1,36,0,1,0,1667245434,"0"
 
 # File marks:
-'0  40  0  ~/.git/COMMIT_EDITMSG
-|4,48,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
-'1  235  5  ~/shell.h
-|4,49,235,5,1668412119,"~/shell.h"
-'2  235  5  ~/shell.h
-|4,50,235,5,1668412111,"~/shell.h"
-'3  1  0  ~/README.md
-|4,51,1,0,1668410436,"~/README.md"
-'4  1  0  ~/simple_shell/README.md
-|4,52,1,0,1668410321,"~/simple_shell/README.md"
-'5  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,53,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
-'6  51  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,54,51,0,1667254643,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
-'7  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,55,22,0,1667253394,"~/alx-low_level_programming/0x15-file_io/2-main.c"
-'8  1  0  julien@ubuntu:~/0x15.
-|4,56,1,0,1667253276,"julien@ubuntu:~/0x15."
-'9  39  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,57,39,0,1667253174,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+'0  4  59  ~/AUTHORS
+|4,48,4,59,1668757935,"~/AUTHORS"
+'1  15  58  ~/README.md
+|4,49,15,58,1668757658,"~/README.md"
+'2  40  0  ~/.git/COMMIT_EDITMSG
+|4,50,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
+'3  235  5  ~/shell.h
+|4,51,235,5,1668412119,"~/shell.h"
+'4  235  5  ~/shell.h
+|4,52,235,5,1668412111,"~/shell.h"
+'5  1  0  ~/README.md
+|4,53,1,0,1668410436,"~/README.md"
+'6  1  0  ~/README.md
+|4,54,1,0,1668410436,"~/README.md"
+'7  1  0  ~/simple_shell/README.md
+|4,55,1,0,1668410321,"~/simple_shell/README.md"
+'8  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,56,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+'9  51  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,57,51,0,1667254643,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
 
 # Jumplist (newest first):
+-'  4  59  ~/AUTHORS
+|4,39,4,59,1668757935,"~/AUTHORS"
+-'  1  0  ~/AUTHORS
+|4,39,1,0,1668757812,"~/AUTHORS"
+-'  15  58  ~/README.md
+|4,39,15,58,1668757658,"~/README.md"
+-'  15  58  ~/README.md
+|4,39,15,58,1668757658,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668757533,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668757533,"~/README.md"
 -'  40  0  ~/.git/COMMIT_EDITMSG
 |4,39,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
+-'  40  0  ~/.git/COMMIT_EDITMSG
+|4,39,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
+-'  40  0  ~/.git/COMMIT_EDITMSG
+|4,39,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
+-'  40  0  ~/.git/COMMIT_EDITMSG
+|4,39,40,0,1668413428,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1668413390,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1668413390,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1668413390,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1668413390,"~/.git/COMMIT_EDITMSG"
 -'  235  5  ~/shell.h
@@ -274,6 +298,30 @@ $
 -'  235  5  ~/shell.h
 |4,39,235,5,1668412119,"~/shell.h"
 -'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412119,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
+|4,39,235,5,1668412111,"~/shell.h"
+-'  235  5  ~/shell.h
 |4,39,235,5,1668412111,"~/shell.h"
 -'  235  5  ~/shell.h
 |4,39,235,5,1668412111,"~/shell.h"
@@ -285,6 +333,46 @@ $
 |4,39,1,0,1668412107,"~/shell.h"
 -'  1  0  ~/shell.h
 |4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/shell.h
+|4,39,1,0,1668412107,"~/shell.h"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1668410436,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1668410436,"~/README.md"
 -'  1  0  ~/README.md
@@ -333,140 +421,67 @@ $
 |4,39,1,0,1668410321,"~/simple_shell/README.md"
 -'  1  0  ~/simple_shell/README.md
 |4,39,1,0,1668410321,"~/simple_shell/README.md"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  315  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,315,0,1667254859,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,39,1,0,1667254848,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
--'  51  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,51,0,1667254643,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  51  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,51,0,1667254643,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1668410321,"~/simple_shell/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/AUTHORS
+	*	1668757934	0
+	"	4	59
+	^	4	60
+	.	4	59
+	+	3	49
+	+	4	59
+
+> ~/README.md
+	*	1668757656	0
+	"	15	58
+	^	233	82
+	.	233	81
+	+	233	81
 
 > ~/.git/COMMIT_EDITMSG
 	*	1668413427	0
@@ -478,10 +493,6 @@ $
 	^	235	6
 	.	235	5
 	+	235	5
-
-> ~/README.md
-	*	1668410435	0
-	"	1	0
 
 > ~/simple_shell/README.md
 	*	1668410316	0
@@ -1242,23 +1253,3 @@ $
 	+	20	7
 	+	33	7
 	+	49	43
-
-> ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-	*	1665702659	0
-	"	5	17
-	^	5	18
-	.	5	17
-	+	1	0
-	+	3	0
-	+	2	7
-	+	1	6
-	+	2	27
-	+	11	5
-	+	2	14
-	+	3	19
-	+	2	16
-	+	7	68
-	+	8	68
-	+	9	46
-	+	4	18
-	+	5	17
